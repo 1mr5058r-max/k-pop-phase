@@ -1,5 +1,13 @@
 # Googleフォーム自動返信システム
 
+## 🚀 今すぐ始める
+
+**コードをApps Scriptに貼り付けたい方:** [PASTE_INSTRUCTIONS.md](PASTE_INSTRUCTIONS.md) を参照してください。
+
+すべてのコードと手順が1ページにまとまっています。
+
+---
+
 ## 完成したGASコード
 
 このシステムは、Googleフォーム送信時に自動的に返信メールを送信します。
@@ -7,6 +15,9 @@
 ### ファイル構成
 - `Code.gs` - メイン処理スクリプト
 - `appsscript.json` - Apps Script設定ファイル
+- `PASTE_INSTRUCTIONS.md` - コードの貼り付け手順（推奨）
+- `README_GAS.md` - このファイル（詳細マニュアル）
+- `QUICK_START.md` - クイックスタートガイド
 
 ---
 

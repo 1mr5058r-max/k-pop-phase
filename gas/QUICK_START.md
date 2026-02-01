@@ -1,12 +1,20 @@
 # Googleフォーム自動返信システム - クイックスタートガイド
 
+## 🚀 今すぐ始める
+
+**Apps Scriptにコードを貼り付ける手順:** [PASTE_INSTRUCTIONS.md](PASTE_INSTRUCTIONS.md)
+
+---
+
 ## 完成形ファイル一覧
 
 ```
 gas/
-├── Code.gs              # メイン処理スクリプト
-├── appsscript.json      # Apps Script設定ファイル
-└── README_GAS.md        # 詳細マニュアル
+├── Code.gs                  # メイン処理スクリプト
+├── appsscript.json          # Apps Script設定ファイル
+├── PASTE_INSTRUCTIONS.md    # 👈 コードの貼り付け手順
+├── QUICK_START.md           # このファイル
+└── README_GAS.md            # 詳細マニュアル
 ```
 
 ## 完成したGASコード
