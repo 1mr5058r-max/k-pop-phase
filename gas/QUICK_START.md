@@ -220,9 +220,10 @@ const body =
 
 ## 送信制限について
 
-- **無料アカウント**: 1日100通まで
+- **無料アカウント**: 1日100通まで（制限は変更される可能性があります）
 - **Google Workspace**: 制限緩和あり
 - **大量送信**: SendGrid等の外部サービス検討
+- 最新情報: [Google Apps Script Quotas](https://developers.google.com/apps-script/guides/services/quotas)
 
 ## セキュリティ対策
 

@@ -265,8 +265,9 @@ const body =
 
 ### 送信制限について
 
-- **MailApp**: 1日あたり100通まで（無料アカウント）
+- **MailApp**: 1日あたり100通まで（無料アカウント、制限は変更される可能性があります）
 - Google Workspaceアカウントは制限が緩和されます
+- 最新の制限については[Google Appsスクリプトの割り当て](https://developers.google.com/apps-script/guides/services/quotas)を確認してください
 - 大量送信が必要な場合は、SendGrid等の外部サービスを検討
 
 ### セキュリティ対策
